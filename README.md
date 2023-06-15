@@ -25,8 +25,10 @@ Bem-vindo ao meu universo digital, onde a criatividade e a inovação se encontr
 
 Estou em busca de desafios inspiradores e parcerias empolgantes. Se você deseja criar uma experiência digital de tirar o fôlego ou está em busca de um desenvolvedor front-end dedicado, vamos trabalhar juntos!
 
-Conecte-se comigo:
+### Conecte-se comigo:
 
+<a href="https://www.linkedin.com/in/resller" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" width="36" height="36" alt="linkedin"/></a>
+<a href="resller.dev@gmail.com" target="_blank"><img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" width="36" height="36" alt="e-mail"/></a>
 - LinkedIn: [linkedin.com/in/resller](https://www.linkedin.com/in/resller)
 - E-mail: resller.dev@gmail.com
 
