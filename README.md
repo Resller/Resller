@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu universo digital, onde a criatividade e a inovação se encontram para criar algo extraordinário! Sou um desenvolvedor front-end apaixonado por transformar ideias em realidade através de interfaces web impressionantes e funcionais.
 
-### Tecnologias e Ferramentas que Domino:
+### Habilidade :
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
