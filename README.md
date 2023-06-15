@@ -32,5 +32,3 @@ Estou em busca de desafios inspiradores e parcerias empolgantes. Se você deseja
 <a href="mailto:resller.dev@gmail.com" target="_blank"><img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" width="36" height="36" alt="e-mail"/></a>
 
 Vamos deixar uma marca duradoura no mundo digital, criando experiências que impressionam e encantam!
-
-![Snake animation](https://github.com/Resller/Resller/blob/output/github-contribution-grid-snake.svg)
