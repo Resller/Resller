@@ -1,16 +1,34 @@
-### Hi there 👋
+# Olá, eu sou o Resller! 👋
 
-<!--
-**Resller/Resller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Front-End | Criando Experiências Digitais que Impressionam
 
-Here are some ideas to get you started:
+Bem-vindo ao meu universo digital, onde a criatividade e a inovação se encontram para criar algo extraordinário! Sou um desenvolvedor front-end apaixonado por transformar ideias em realidade através de interfaces web impressionantes e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas que Domino:
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="32" height="32" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://reactjs.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+</p>
+
+### Badges
+
+<a href="http://www.github.com/resller"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=resller&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="https://github.com/resller" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=resller&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Vamos criar algo único e extraordinário!
+
+Estou em busca de desafios inspiradores e parcerias empolgantes. Se você deseja criar uma experiência digital de tirar o fôlego ou está em busca de um desenvolvedor front-end dedicado, vamos trabalhar juntos!
+
+Conecte-se comigo:
+
+- LinkedIn: [linkedin.com/in/resller](https://www.linkedin.com/in/resller)
+- E-mail: resller.dev@gmail.com
+
+Vamos deixar uma marca duradoura no mundo digital, criando experiências que impressionam e encantam!
+
