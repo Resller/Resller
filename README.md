@@ -33,3 +33,4 @@ Estou em busca de desafios inspiradores e parcerias empolgantes. Se você deseja
 
 Vamos deixar uma marca duradoura no mundo digital, criando experiências que impressionam e encantam!
 
+![Snake animation](https://github.com/resller/resller/blob/output/github-contribution-grid-snake.svg)
