@@ -17,9 +17,10 @@ Bem-vindo ao meu universo digital, onde a criatividade e a inovação se encontr
 </p>
 
 ### Badges
-
-<a href="http://www.github.com/resller"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=resller&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
-<a href="https://github.com/resller" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=resller&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=resller&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resller&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</div>
 
 ### Vamos criar algo único e extraordinário!
 
