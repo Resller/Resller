@@ -1,4 +1,4 @@
-# Olá, eu sou o Resller! 👋
+# Olá, eu sou o Resller! 
 
 ## Desenvolvedor Front-End | Criando Experiências Digitais que Impressionam
 
