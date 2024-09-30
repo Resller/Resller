@@ -6,13 +6,6 @@ Sou um **DevOps** apaixonado por automação, infraestrutura e desenvolvimento d
 
 ## 🛠️ Tecnologias e Ferramentas
 
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://skillicons.dev/icons?i=aws)"
-"[https://cdn-icons-png.flaticon.com/512/732/732190.png](https://skillicons.dev/icons?i=azure)" 
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://skillicons.dev/icons?i=git)" " />
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg](https://skillicons.dev/icons?i=kubernetes)"
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://skillicons.dev/icons?i=linux)"
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg](https://skillicons.dev/icons?i=postgres)" 
-"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg](https://skillicons.dev/icons?i=terraform)" 
 
 
 ## 🌱 O que estou aprendendo atualmente
