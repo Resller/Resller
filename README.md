@@ -6,15 +6,14 @@ Sou um **DevOps** apaixonado por automação, infraestrutura e desenvolvimento d
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://skillicons.dev/icons?i=aws)" width="36" height="36" alt="HTML5" />
-<img src="[https://cdn-icons-png.flaticon.com/512/732/732190.png](https://skillicons.dev/icons?i=azure)" width="32" height="32" alt="CSS" />
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://skillicons.dev/icons?i=git)" width="36" height="36" alt="Javascript" />
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg](https://skillicons.dev/icons?i=kubernetes)" width="36" height="36" alt="Typescript" />
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://skillicons.dev/icons?i=linux)" width="36" height="36" alt="React" />
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg](https://skillicons.dev/icons?i=postgres)" width="36" height="36" alt="TailwindCSS" />
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg](https://skillicons.dev/icons?i=terraform)" width="36" height="36" alt="Redux" />
-</p>
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg](https://skillicons.dev/icons?i=aws)"
+"[https://cdn-icons-png.flaticon.com/512/732/732190.png](https://skillicons.dev/icons?i=azure)" 
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://skillicons.dev/icons?i=git)" " />
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg](https://skillicons.dev/icons?i=kubernetes)"
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg](https://skillicons.dev/icons?i=linux)"
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg](https://skillicons.dev/icons?i=postgres)" 
+"[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg](https://skillicons.dev/icons?i=terraform)" 
+
 
 ## 🌱 O que estou aprendendo atualmente
 
