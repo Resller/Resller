@@ -6,7 +6,7 @@ Sou um **DevOps** apaixonado por automação, infraestrutura e desenvolvimento d
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,oci,git,kubernetes,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,oracle,git,kubernetes,docker,elasticsearch,zabbix,grafana,linux)](https://skillicons.dev)
 
 ## 🌱 O que estou aprendendo atualmente
 
