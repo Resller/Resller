@@ -2,7 +2,7 @@
 
 ## DevOps
 
-Sou um **DevOps** apaixonado por automação, infraestrutura e desenvolvimento de software. Tenho experiência em várias tecnologias, incluindo Kubernetes, Docker, Terraform e muito mais. Estou sempre em busca de aprender novas ferramentas e melhores práticas para otimizar fluxos de trabalho.
+Sou um **DevOps** apaixonado por automação, infraestrutura e desenvolvimento de software. Tenho experiência em várias tecnologias, incluindo Kubernetes, Docker, linux e muito mais. Estou sempre em busca de aprender novas ferramentas e melhores práticas para otimizar fluxos de trabalho.
 
 ## 🛠️ Tecnologias e Ferramentas
 
